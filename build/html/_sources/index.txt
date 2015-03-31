@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-    hellomagedu
+   hellomagedu
 
 Indices and tables
 ==================
